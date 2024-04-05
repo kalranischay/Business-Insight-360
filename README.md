@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics Power BI Course.
 
-[Live Report: ](https://app.powerbi.com/view?r=eyJrIjoiNTU0MDcwM2YtMDkzZS00MDRlLWExOGYtODg1ZGQ2M2YyOGU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live Reporting Link](https://app.powerbi.com/view?r=eyJrIjoiNTU0MDcwM2YtMDkzZS00MDRlLWExOGYtODg1ZGQ2M2YyOGU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Technology stack
 
@@ -139,14 +139,14 @@ Fact table: It contains transaction data.
         - Details of post-invoice deductions and other deductions.
 
 ## Importing Data to Power BI
-    - As the database is MySQL in this project, we need to import the datasets from the MySQL database to Power BI by providing the database access credentials.
+- As the database is MySQL in this project, we need to import the datasets from the MySQL database to Power BI by providing the database access credentials.
 
 ## Data Model
-    - Data modeling plays a vital role and is considered the foundation of a report. All visuals will be built upon the data model. 
-    - Poor data modeling can affect the overall performance of the report.
-    - Following good practices of data modeling is essential. In this project, we have followed the Snowflake data modeling method.
+- Data modeling plays a vital role and is considered the foundation of a report. All visuals will be built upon the data model. 
+- Poor data modeling can affect the overall performance of the report.
+- Following good practices of data modeling is essential. In this project, we have followed the Snowflake data modeling method.
 
-<img width="821" alt="image" src="https://github.com/kalranischay/Business-Insight-360/assets/42869655/951a6a34-a17b-4bee-bfe7-45c7cd30bcc9">
+<img width="816" alt="image" src="https://github.com/kalranischay/Business-Insight-360/assets/42869655/591f2317-abe5-417f-af73-417158b3f810">
 
 ### Dashboard Design
 
