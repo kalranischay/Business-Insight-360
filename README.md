@@ -153,7 +153,7 @@ Fact table: It contains transaction data.
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
 ## Home View
-![Home](https://github.com/kalranischay/Business-Insight-360/assets/42869655/75a84aac-817d-4ce8-aca7-b852a131b72b)
+![Home](https://github.com/kalranischay/Business-Insight-360/assets/42869655/b1d16c74-79cd-4071-b188-0be8c2a74a9a)
 
 In the Home view, you'll find buttons to access all other views, the user will land on specific view page by clicking the button. 
 
@@ -166,19 +166,19 @@ In the Home view, you'll find buttons to access all other views, the user will l
 - Support
 
 ## Finance View
-![Finance View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/a584202e-8cfe-4bca-a6a0-38dd3fbf8995)
+![Finance View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/01d2fad9-d811-4f9e-bf14-ed442b846fd2)
 
 ## Sales View
-![Sales View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/a8712b2a-2b2f-4850-a376-ef0ea4e1aecc)
+![Sales View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/06888163-f40c-4655-9d6f-a697d312cfdc)
 
 ## Marketing View
-![Marketing View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/87edb6e4-8862-4f9d-bba4-440575bcdd5a)
+![Marketing View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/1e82de39-2490-46fe-984d-d8239906b934)
 
 ## Supply chain View
-![Supply Chain View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/e359494c-e5ac-4f87-88e1-66c90e1ac1a8)
+![Supply Chain View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/c9222a93-9955-45cf-9e83-181680730b25)
 
 ## Executive View
-![Executive View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/ae38d074-d9f0-4c16-a28f-3dd1a745d255)
+![Executive View](https://github.com/kalranischay/Business-Insight-360/assets/42869655/6f35a41a-c37d-406c-81ea-6da68dfed149)
 
 ## Project Outcome
 
